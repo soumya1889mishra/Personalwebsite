@@ -1,0 +1,102 @@
+#title {
+  background-color: #D57E7E;
+}
+
+#headercontaier {
+  padding: 2% 10% 1% 10%;
+
+}
+#aboutmecontainer{
+  padding: 2% 10% 1% 10%;
+  background-color: #FFDAC7;
+  font-family: 'Montserrat-Black';
+  color: #4C4C6D;
+}
+
+#cardcontaier {
+  padding: 2% 10% 1% 10%;
+    background-color: #082032;
+}
+body {
+  font-family: 'Montserrat-Black';
+}
+
+h1 {
+  font-family: 'Montserrat-Black';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.myimage {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  border-style: dotted;
+  border-color: white;
+  border-width: 5%;
+  padding: 1%;
+  margin-left: 30%;
+  margin-top: 2%;
+}
+
+#navigationband {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+.nav-link{
+  font-size:110%;
+}
+.Quoteline {
+  color: white;
+  font-family: fantasy;
+}
+
+#features {
+  background-color: #005A8D;
+  padding: 3% 10% 1%;
+  font-family: 'Montserrat-Black';
+  color: #F9DFDC;
+}
+
+#footer {
+  background-color: #A2416B;
+  padding: 0% 10%;
+  color: #F5C6A5;
+  font-family: 'Montserrat-Black';
+}
+
+.Designation {
+  color: #FFB344;
+  text-decoration: underline;
+}
+.cardimageaboutbem{
+  height: 200px;
+  width:40px;
+}
+.areasofinterst{
+  color: #F0A500;
+  font-family: 'Montserrat-Black';
+}
+.carbodyaboutme{
+  color: : #F0A500;
+  font-family: 'Montserrat-Black';
+}
+
+.Copyrighttag{
+  margin: 0px;
+
+
+}
+.buttondownload{
+  margin: 3% 0% 0% ;
+}
+.travelpics{
+  background-color: black;
+    padding: 2% 10% 1% 10%;
+    width: 20%;
+    height:20%;
+    color: #F0A500;
+
+
+
+}
